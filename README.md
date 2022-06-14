@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuizCarlos2288
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data
 - 📫 How to reach me ...
 
