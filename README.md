@@ -1,4 +1,4 @@
-- Hi, I’m @LuizCarlos2288
+- Hi, I’m Luiz Carlos
 - I’m interested in Web Developing
 - I’m currently learning React Native
 - I'm studying in Rocket Seat 
